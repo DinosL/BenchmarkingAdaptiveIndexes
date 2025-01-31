@@ -1,1 +1,1 @@
-# BenchmarkingAdaptiveIndices
+# BenchmarkingAdaptiveIndexes
