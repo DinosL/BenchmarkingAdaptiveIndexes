@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../bin/tests"
+  "../bin/tests.pdb"
+  "CMakeFiles/tests.dir/data/uniform_generator.cpp.o"
+  "CMakeFiles/tests.dir/data/uniform_generator.cpp.o.d"
+  "CMakeFiles/tests.dir/helpers/bitvector.cpp.o"
+  "CMakeFiles/tests.dir/helpers/bitvector.cpp.o.d"
+  "CMakeFiles/tests.dir/helpers/bitvector_with_chars.cpp.o"
+  "CMakeFiles/tests.dir/helpers/bitvector_with_chars.cpp.o.d"
+  "CMakeFiles/tests.dir/helpers/split_string.cpp.o"
+  "CMakeFiles/tests.dir/helpers/split_string.cpp.o.d"
+  "CMakeFiles/tests.dir/helpers/table.cpp.o"
+  "CMakeFiles/tests.dir/helpers/table.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/average_kd_tree.cpp.o"
+  "CMakeFiles/tests.dir/indexes/average_kd_tree.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree.cpp.o"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree_per_dimension.cpp.o"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree_per_dimension.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree_pre_processing.cpp.o"
+  "CMakeFiles/tests.dir/indexes/cracking_kd_tree_pre_processing.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/full_scan.cpp.o"
+  "CMakeFiles/tests.dir/indexes/full_scan.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/full_scan_candidate_list.cpp.o"
+  "CMakeFiles/tests.dir/indexes/full_scan_candidate_list.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/index_factory.cpp.o"
+  "CMakeFiles/tests.dir/indexes/index_factory.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/median_kd_tree.cpp.o"
+  "CMakeFiles/tests.dir/indexes/median_kd_tree.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/progressive_indexing.cpp.o"
+  "CMakeFiles/tests.dir/indexes/progressive_indexing.cpp.o.d"
+  "CMakeFiles/tests.dir/indexes/quasii.cpp.o"
+  "CMakeFiles/tests.dir/indexes/quasii.cpp.o.d"
+  "CMakeFiles/tests.dir/test.cpp.o"
+  "CMakeFiles/tests.dir/test.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/tests.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

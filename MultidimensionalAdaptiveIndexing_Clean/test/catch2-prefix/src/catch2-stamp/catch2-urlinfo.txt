@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/homebrew/Cellar/cmake/3.30.5/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/test/catch2-prefix/src/catch2-stamp/download-catch2.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.30.5/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/test/catch2-prefix/src/catch2-stamp/verify-catch2.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.30.5/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/test/catch2-prefix/src/catch2-stamp/extract-catch2.cmake
+source_dir=/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/test/catch2-prefix/src/catch2
+work_dir=/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/test/catch2-prefix/src
+url(s)=https://github.com/catchorg/Catch2/archive/v2.9.1.tar.gz
+hash=MD5=4980778888fed635bf191d8a86f9f89c
+      no_extract=
+

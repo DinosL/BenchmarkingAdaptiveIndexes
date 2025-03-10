@@ -1,0 +1,1 @@
+cmd='/opt/homebrew/Cellar/cmake/3.30.5/bin/cmake;-DCATCH_BUILD_TESTING=OFF;-DCMAKE_BUILD_TYPE=Release;-DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/c++;-DCMAKE_C_COMPILER=/opt/homebrew/bin/gcc-11;-DCMAKE_INSTALL_PREFIX=/Users/dinosl/Downloads/MultidimensionalAdaptiveIndexing_Clean/deps;-GUnix Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'
