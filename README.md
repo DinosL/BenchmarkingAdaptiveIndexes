@@ -8,6 +8,10 @@ The folders contain the following:
 - MultidimensionalAdaptiveIndexing_Clean(_shapes): contains the code for AKD, QUASII, PKD and GPKD taken from [here](https://github.com/pdet/MultidimensionalAdaptiveIndexing), (extended to work for shapes).
 - QuadTree: contains the code for the quad tree implementation used in our experiments.
 
+## Requirements
+- python3 (scikit-learn, pandas)
+- boost library (version 1.86 was used for the experiments and can be obtained [here](https://www.boost.org/users/history/version_1_86_0.html))
+
 # How to run (easy way)
 
 Since the project consists of multiple files and has a complicated structure we provide a script that (hopefully) will make running the code a smooth experience. All you have to do is run the `run.sh` script and that should create the necessary folders, generate and download data, and run experiments.
